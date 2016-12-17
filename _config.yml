@@ -1,5 +1,5 @@
 name: alex
-baseurl: "/notes"
+baseurl: ""
 
 date_format: "%Y-%m-%d"
 
