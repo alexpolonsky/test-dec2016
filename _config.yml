@@ -1,5 +1,5 @@
-name: cake
-baseurl: "/cake"
+name: alexpolonsky.github.com
+baseurl: "/"
 
 date_format: "%Y-%m-%d"
 
