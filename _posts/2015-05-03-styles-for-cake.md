@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Styles for cake
+title:  כותרת בעברית - סטיילים לפוסט
 date:   2016-09-01 09:00:00
 ---
 
-Cake 🍰 is a hyper-minimalistic Jekyll theme.
+ניסיון עם עברית בג׳ייקל. סימני שאלה???
 
 Below are some examples of basic styles.
 
@@ -12,19 +12,19 @@ Below are some examples of basic styles.
 
 ### Headers:
 
-# Header 1
+# כותרת 1
 
-## Header 2
+## כותרת 2
 
-### Header 3
+### כותרת 3
 
-#### Header 4
+#### כותרת 4
 
-##### Header 5
+##### כותרת 5
 
-###### Header 6
+###### כותרת 6
 
-### Lists:
+### רשימות:
 
 - list item 1
 - list item 2
