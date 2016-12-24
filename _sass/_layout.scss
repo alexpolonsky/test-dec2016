@@ -35,8 +35,8 @@ main {
     list-style: none;
     padding: 0;
     > li {
-        line-height: 2;
-        padding: 1rem 0;
+        line-height: 1;
+        padding: 0rem 0;
         span {
             color: $meta-color;
             display: block;
@@ -56,7 +56,6 @@ main {
     .post-header {
         font-size: 3.2 * $base-font-size;
         font-weight: 700;
-        line-height: 70%;
     }
     .post-meta {
         margin-top: -4rem;
